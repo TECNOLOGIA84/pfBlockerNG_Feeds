@@ -1,5 +1,13 @@
-# Lista de redes sociales para bloqueo en pfBlocker
-# ------------------------------------------------
+# Title: Social_Davidcruz with the social extension
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 24 September 2025
+# Extensions added to this file: social
+# Number of unique domains: 20
+#
+# ===============================================================
 
 # Facebook
 facebook.com
