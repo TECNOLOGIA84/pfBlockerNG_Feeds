@@ -51,3 +51,24 @@ www.linkedin.com
 # Reddit
 reddit.com
 www.reddit.com
+
+# Radio
+www.lafm.com.co
+
+
+# Plataformas de radios online
+0.0.0.0 tunein.com
+0.0.0.0 open.spotify.com
+0.0.0.0 iheart.com
+0.0.0.0 radio.garden
+0.0.0.0 streema.com
+0.0.0.0 radionomy.com
+0.0.0.0 shoutcast.com
+0.0.0.0 audacy.com
+
+# Emisoras grandes Colombia
+0.0.0.0 caracol.com.co
+0.0.0.0 wradio.com.co
+0.0.0.0 los40.com.co
+0.0.0.0 blu.radio
+0.0.0.0 rcnradio.com
