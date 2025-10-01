@@ -9,52 +9,53 @@
 #
 # ===============================================================
 
+# Redes Sociales y Plataformas
+
 # Facebook
-facebook.com
-www.facebook.com
-m.facebook.com
-fbcdn.net
-fb.com
-messenger.com
-workplace.com
+0.0.0.0 facebook.com
+0.0.0.0 www.facebook.com
+0.0.0.0 m.facebook.com
+0.0.0.0 fbcdn.net
+0.0.0.0 fb.com
+0.0.0.0 messenger.com
+0.0.0.0 workplace.com
 
 # Instagram
-instagram.com
-www.instagram.com
-cdninstagram.com
+0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
+0.0.0.0 cdninstagram.com
 
 # TikTok
-tiktok.com
-www.tiktok.com
-m.tiktok.com
-tiktokcdn.com
+0.0.0.0 tiktok.com
+0.0.0.0 www.tiktok.com
+0.0.0.0 m.tiktok.com
+0.0.0.0 tiktokcdn.com
 
 # X (antes Twitter)
-twitter.com
-www.twitter.com
-x.com
-t.co
+0.0.0.0 twitter.com
+0.0.0.0 www.twitter.com
+0.0.0.0 x.com
+0.0.0.0 t.co
 
 # Snapchat
-snapchat.com
-www.snapchat.com
+0.0.0.0 snapchat.com
+0.0.0.0 www.snapchat.com
 
-# YouTube / Shorts (opcional si quieres limitar también)
-youtube.com
-www.youtube.com
-youtu.be
+# YouTube / Shorts
+0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 youtu.be
 
 # LinkedIn
-linkedin.com
-www.linkedin.com
+0.0.0.0 linkedin.com
+0.0.0.0 www.linkedin.com
 
 # Reddit
-reddit.com
-www.reddit.com
+0.0.0.0 reddit.com
+0.0.0.0 www.reddit.com
 
 # Radio
-www.lafm.com.co
-
+0.0.0.0 www.lafm.com.co
 
 # Plataformas de radios online
 0.0.0.0 tunein.com
@@ -72,3 +73,67 @@ www.lafm.com.co
 0.0.0.0 los40.com.co
 0.0.0.0 blu.radio
 0.0.0.0 rcnradio.com
+
+# ===============================================================
+# Title: Social_Davidcruz with the social extension
+# Hosts file para pfBlockerNG - Bloqueo de ocio/entretenimiento
+# ===============================================================
+
+# === Streaming de Video ===
+0.0.0.0 netflix.com
+0.0.0.0 www.netflix.com
+0.0.0.0 nflxvideo.net
+0.0.0.0 hulu.com
+0.0.0.0 www.hulu.com
+0.0.0.0 primevideo.com
+0.0.0.0 www.primevideo.com
+0.0.0.0 disneyplus.com
+0.0.0.0 www.disneyplus.com
+0.0.0.0 hbomax.com
+0.0.0.0 www.hbomax.com
+0.0.0.0 max.com
+0.0.0.0 www.max.com
+0.0.0.0 crunchyroll.com
+0.0.0.0 www.crunchyroll.com
+0.0.0.0 funimation.com
+0.0.0.0 www.funimation.com
+
+# === Plataformas de Música ===
+0.0.0.0 deezer.com
+0.0.0.0 www.deezer.com
+0.0.0.0 tidal.com
+0.0.0.0 www.tidal.com
+0.0.0.0 soundcloud.com
+0.0.0.0 www.soundcloud.com
+0.0.0.0 bandcamp.com
+0.0.0.0 www.bandcamp.com
+0.0.0.0 mixcloud.com
+0.0.0.0 www.mixcloud.com
+
+# === Juegos en línea ===
+0.0.0.0 steampowered.com
+0.0.0.0 store.steampowered.com
+0.0.0.0 epicgames.com
+0.0.0.0 www.epicgames.com
+0.0.0.0 riotgames.com
+0.0.0.0 playvalorant.com
+0.0.0.0 leagueoflegends.com
+0.0.0.0 www.leagueoflegends.com
+0.0.0.0 roblox.com
+0.0.0.0 www.roblox.com
+0.0.0.0 minecraft.net
+0.0.0.0 www.minecraft.net
+0.0.0.0 fortnite.com
+0.0.0.0 www.fortnite.com
+
+# === Plataformas de Foros y Comunidad ===
+0.0.0.0 discord.com
+0.0.0.0 www.discord.com
+0.0.0.0 slack.com
+0.0.0.0 www.slack.com
+0.0.0.0 twitch.tv
+0.0.0.0 www.twitch.tv
+0.0.0.0 vimeo.com
+0.0.0.0 www.vimeo.com
+0.0.0.0 dailymotion.com
+0.0.0.0 www.dailymotion.com
