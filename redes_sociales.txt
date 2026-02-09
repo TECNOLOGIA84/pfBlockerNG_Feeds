@@ -47,6 +47,7 @@
 0.0.0.0 youtu.be
 
 # LinkedIn
+0.0.0.0 co.linkedin.com
 
 
 # Reddit
