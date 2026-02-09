@@ -48,6 +48,8 @@
 
 # LinkedIn
 0.0.0.0 co.linkedin.com
+0.0.0.0 linkedin.com
+0.0.0.0 www.linkedin.com
 
 
 # Reddit
