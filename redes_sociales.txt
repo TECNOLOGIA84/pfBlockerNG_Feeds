@@ -77,8 +77,8 @@
 0.0.0.0 rcnradio.com
 
 # ===============================================================
-# Title: Social_Davidcruz with the social extension
-# Hosts file para pfBlockerNG - Bloqueo de ocio/entretenimiento
+# Title: Soluciones iT Ingenieria with the social extension
+# Hosts file para Soluciones iT Ingenieria - Bloqueo de ocio/entretenimiento
 # ===============================================================
 
 # === Streaming de Video ===
